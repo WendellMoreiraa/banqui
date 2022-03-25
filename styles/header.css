@@ -1,0 +1,21 @@
+:root{
+    --bg: #FCFCFC;
+  --bg-panel: #EBEBEB;
+  --color-headings: #0077FF;
+  --color-text: #333333;
+}
+.header {
+    display: flex;
+    padding: 30px 30px;
+}
+.header-logo_img{
+    width: 80px;
+}
+.header-title{
+    font-size: 60px;
+    padding-left: 20px;
+    color: rgba(189, 89, 214);
+    text-transform: uppercase;
+}
+
+
