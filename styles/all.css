@@ -23,3 +23,40 @@
   align-items:center;
 }
 
+@media (max-width: 690px){
+  .header-logo_img{
+    width: 60px;
+  }
+  .header-title{
+    font-size: 30px;
+    text-align: center;
+  }
+  .img{
+    width: 300px;
+  }
+  .main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    
+  }
+  .section-input{
+    width: 300px;
+    height: 300px;
+    margin-left:20px;
+
+  }
+ 
+  .img-input{
+    width: 10px;
+  }
+  .login-title{
+    display: none;
+
+  }
+  .username{
+    margin-top:0;
+  }
+}
+
