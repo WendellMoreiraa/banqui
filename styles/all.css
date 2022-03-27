@@ -25,6 +25,7 @@
 
 @media (max-width: 690px){
   .header-logo_img{
+    margin-left:20px;
     width: 60px;
   }
   .header-title{
@@ -33,6 +34,7 @@
     margin-bottom:0;
   }
   .img{
+    margin-left:20px;
     width: 300px;
   }
   .main{
@@ -46,7 +48,7 @@
   .section-input{
     width: 300px;
     height: 300px;
-    margin-left:20px;
+    margin-left:30px;
 
   }
   .input{
